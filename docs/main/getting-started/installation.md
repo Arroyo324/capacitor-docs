@@ -1,4 +1,4 @@
----
+--
 title: Installing Capacitor
 description: Installing Capacitor
 slug: /getting-started
